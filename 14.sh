@@ -1,4 +1,3 @@
-
 #!/bin/bash
 set -e
 
@@ -289,3 +288,4 @@ echo "════════════════════════�
 
 docker ps --format "table {{.Names}}\t{{.Status}}"
 ```
+
